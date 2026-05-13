@@ -39,9 +39,16 @@ I'm **Debela Girma**, a passionate developer dedicated to building innovative so
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debela-girma&show_icons=true&theme=radical&hide_border=true)
+### 📈 Daily Activity & Streaks
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debela-girma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debela-girma&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debela-girma&layout=compact&theme=radical&hide_border=true)
+
+### 📅 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=debela-girma&theme=radical&hide_border=true)
 
 </div>
 
