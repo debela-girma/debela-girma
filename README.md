@@ -60,14 +60,23 @@ I'm **Debela Girma**, a passionate developer dedicated to building innovative so
 - 📱 Exploring mobile development
 - 🤖 Learning AI/Machine Learning concepts
 - 🌐 Contributing to open-source projects
+
+---
+
 ## 🌟 Highlighted Projects
 
 Check out my repositories to see what I'm working on! Each project showcases different skills and technologies:
-- Full-stack applications
-- Backend services
-- Frontend components
-- Data analysis projects
-- Automation scripts
+
+### 🎓 Backend Services & Management Systems
+- **[Student Management System](https://github.com/debela-girma/student-management-system)** - Java-based student management application
+- **[JavaFX Dormitory Management System](https://github.com/debela-girma/javafxprojects1)** - JavaFX dormitory management system for Hawassa University
+
+### 💻 Frontend & Full-Stack Applications
+- **[My Portfolio](https://github.com/debela-girma/my-portfolio-)** - TypeScript-based portfolio application ([Live Demo](https://my-portfolio-six-sage-7woh0v8hqi.vercel.app))
+- **[CPP Project 1](https://github.com/debela-girma/CPPproject1)** - C++ project showcasing systems programming skills
+
+### 📚 Additional Projects
+- **[Portfolio](https://github.com/debela-girma/portfolio)** - Portfolio project repository
 
 ---
 
