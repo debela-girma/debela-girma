@@ -60,22 +60,6 @@ I'm **Debela Girma**, a passionate developer dedicated to building innovative so
 - 📱 Exploring mobile development
 - 🤖 Learning AI/Machine Learning concepts
 - 🌐 Contributing to open-source projects
-
----
-
-## 📈 Skill Proficiency
-
-| Skill | Proficiency |
-|-------|------------|
-| Python | ████████░░ 80% |
-| JavaScript | ████████░░ 80% |
-| React | ███████░░░ 70% |
-| TypeScript | ███████░░░ 70% |
-| SQL | ████████░░ 80% |
-| Git & GitHub | █████████░ 90% |
-
----
-
 ## 🌟 Highlighted Projects
 
 Check out my repositories to see what I'm working on! Each project showcases different skills and technologies:
