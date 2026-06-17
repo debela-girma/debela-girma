@@ -136,7 +136,7 @@
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| [My Portfolio](https://github.com/debela-girma/my-portfolio-) | TypeScript-based portfolio application | [![Live](https://img.shields.io/badge/Live-Visit-blue?logo=vercel)](https://my-portfolio-six-sage-7woh0v8hqi.vercel.app) |
+| [My Portfolio](https://github.com/debela-girma/my-portfolio-) | TypeScript-based portfolio application | [![Live](https://img.shields.io/badge/Live-Visit-blue?logo=vercel)](https://debelaportfolio.vercel.app/) |
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | C++ systems programming showcase | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) |
 
 </div>
@@ -163,7 +163,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debela-girma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debela-girma)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debelagirma619@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-six-sage-7woh0v8hqi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://debelaportfolio.vercel.app/)
 
 </div>
 
