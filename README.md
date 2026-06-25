@@ -5,7 +5,7 @@
 ### I'm **Debela Girma** 🚀
 *A passionate developer crafting innovative solutions & contributing to open-source*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Alw[...]
 
 </div>
 
@@ -98,6 +98,19 @@
 
 </div>
 
+<!-- Computed snapshot added by automation -->
+
+<div align="center">
+
+### Repository snapshot (computed)
+
+- **Total commits (this repo):** 7
+- **Public repositories (owned):** 6
+- **Files in this repository:** 1
+- **Last push (UTC):** 2026-06-17T11:21:25Z
+
+</div>
+
 ---
 
 ## 🎯 Currently Working On
@@ -122,8 +135,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [Student Management System](https://github.com/debela-girma/student-management-system) | Java-based student management application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
-| [JavaFX Dormitory Management](https://github.com/debela-girma/javafxprojects1) | Dormitory management system for Hawassa University | ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white) |
+| [Student Management System](https://github.com/debela-girma/student-management-system) | Java-based student management application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-[...]
 
 </div>
 
@@ -136,7 +148,7 @@
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| [My Portfolio](https://github.com/debela-girma/my-portfolio-) | TypeScript-based portfolio application | [![Live](https://img.shields.io/badge/Live-Visit-blue?logo=vercel)](https://debelaportfolio.vercel.app/) |
+| [My Portfolio](https://github.com/debela-girma/my-portfolio-) | TypeScript-based portfolio application | [![Live](https://img.shields.io/badge/Live-Visit-blue?logo=vercel)](https://debelaportfo[...]
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | C++ systems programming showcase | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) |
 
 </div>
