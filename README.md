@@ -218,6 +218,6 @@ Feel free to explore my repositories, star your favorites ⭐, and reach out for
 
 <div align="center">
   
-### 🌟 If you find my work helpful, consider giving it a ⭐!
+### 🌟 If you find my work helpful, consider giving it a ⭐and hire me!
 
 </div>
