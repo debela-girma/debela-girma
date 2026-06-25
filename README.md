@@ -5,7 +5,7 @@
 ### I'm **Debela Girma** 🚀
 *A passionate developer crafting innovative solutions & contributing to open-source*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Alw[...]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,18 +82,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=debela-girma&theme=tokyonight&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debela-girma&theme=default&hide_border=true">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=debela-girma&layout=compact&theme=tokyonight&hide_border=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debela-girma&layout=compact&theme=default&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=debela-girma&theme=tokyonight&hide_border=true">
-  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=debela-girma&theme=default&hide_border=true">
 </picture>
 
 </div>
@@ -135,7 +125,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [Student Management System](https://github.com/debela-girma/student-management-system) | Java-based student management application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-[...]
+| [Student Management System](https://github.com/debela-girma/student-management-system) | Java-based student management application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
 
 </div>
 
@@ -148,7 +138,7 @@
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| [My Portfolio](https://github.com/debela-girma/my-portfolio-) | TypeScript-based portfolio application | [![Live](https://img.shields.io/badge/Live-Visit-blue?logo=vercel)](https://debelaportfo[...]
+| [My Portfolio](https://github.com/debela-girma/my-portfolio-) | TypeScript-based portfolio application | [![Live](https://img.shields.io/badge/Live-Visit-blue?logo=vercel)](https://debelaportfolio.vercel.app/) |
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | C++ systems programming showcase | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) |
 
 </div>
