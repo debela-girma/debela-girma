@@ -29,13 +29,45 @@
 
 ## About
 
-I build clean, maintainable full‑stack applications with a focus on UI/UX and accessibility. I like neon interfaces with high contrast — but I keep them usable and accessible.
+# Hi, I'm Debela Girma 👋
 
-- 🔧 React, TypeScript, Node, Django
-- 🎨 UI/UX, accessibility, responsive design
-- ⚡ Performance and maintainability
+**Computer Science Student | Aspiring Software Engineer | Ethiopia**
 
----
+I'm a Computer Science student at Hawassa University Institute of Technology, focused on developing practical software engineering skills and building applications that solve real-world problems.
+
+My journey so far has included Java and MySQL coursework, hands-on exploration of web development, database-driven applications, Git/GitHub, and AI-assisted software development. I'm now focusing on strengthening my backend engineering skills and progressing toward full-stack development.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, Java
+- **Databases:** MySQL
+- **Web Development:** HTML, CSS, JavaScript
+- **Currently Exploring:** Django, FastAPI, PostgreSQL, React
+- **Development Tools:** Git, GitHub, AI-assisted development
+
+## 💻 Experience & Projects
+
+- **Java & MySQL:** Academic experience working with programming fundamentals and relational databases.
+- **Web Development:** Hands-on exploration of web technologies and small application development.
+- **IT Infrastructure & Network Security:** Internship-related work involving network architecture, VLANs, IP addressing, access controls, and defense-in-depth security concepts.
+
+## 🚀 What I'm Working Toward
+
+- Building backend applications and REST APIs.
+- Developing database-driven business management systems.
+- Learning authentication, authorization, and secure application design.
+- Building full-stack applications that combine reliable backends with user-friendly interfaces.
+- Developing portfolio projects that address practical problems in local businesses and communities.
+
+## 🎯 My Goal
+
+To become a capable software engineer through consistent learning, practical project development, and real-world experience, while contributing to useful software solutions and growing within Ethiopia's technology sector.
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on software projects, learning from other developers, and exploring internship and entry-level software development opportunities.
+
+📍 Hawassa, Ethiopia
 
 ## Skills
 
