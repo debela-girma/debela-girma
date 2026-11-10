@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student;Aspiring+Software+Engineer;Building+practical+solutions+with+code;Open+to+internships+and+collabs" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student;Learning+ReactJS+and+Full-Stack+Development" alt="Introduction" />
 </p>
 
 <p align="center">
@@ -35,15 +35,16 @@
 
 I'm a Computer Science student at Hawassa University Institute of Technology, focused on building practical software solutions that solve real-world problems.
 
-My work so far includes fundamentals in Java and MySQL, hands-on web development, database-driven applications, version control with Git/GitHub, and AI-assisted software development. I am now growing my skills in backend engineering, full-stack development, and secure application design.
+My work so far includes fundamentals in Java and MySQL, hands-on web development, database-driven applications, version control with Git/GitHub, and AI-assisted software development. I'm currently learning ReactJS and growing my skills in frontend and full-stack development, alongside backend engineering and secure application design.
 
 <details>
 <summary><b>📌 Quick Snapshot</b></summary>
 
 - 🎓 Studying: Computer Science at Hawassa University Institute of Technology
-- 💡 Focus: Backend development, APIs, system design, secure apps
-- 🧠 Currently learning: Django, FastAPI, PostgreSQL, React, and modern engineering workflows
-- 🤝 Looking for: internships, collaborations, and software engineering opportunities
+- 💡 Focus: Backend development, APIs, system design, and secure apps
+- 🧠 Currently learning: ReactJS, Django, FastAPI, PostgreSQL, and modern engineering workflows
+- ⚛️ Exploring: React components, props, state, and building interactive user interfaces
+- 🤝 Looking for: Internships, collaborations, and software engineering opportunities
 
 </details>
 
@@ -52,19 +53,19 @@ My work so far includes fundamentals in Java and MySQL, hands-on web development
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -72,7 +73,7 @@ My work so far includes fundamentals in Java and MySQL, hands-on web development
 ## 💻 Experience & Projects
 
 - **Java & MySQL:** Academic experience with programming fundamentals and relational databases.
-- **Web Development:** Building responsive interfaces and practical web apps.
+- **Web Development:** Building responsive interfaces and practical web apps; currently learning ReactJS to create interactive frontend experiences.
 - **IT Infrastructure & Network Security:** Exposure to network architecture, VLANs, IP addressing, access controls, and defense-in-depth security concepts.
 - **Software Engineering Practice:** Learning clean code, version control, debugging, and iterative product development.
 
@@ -80,6 +81,8 @@ My work so far includes fundamentals in Java and MySQL, hands-on web development
 
 ## 🚀 What I'm Working Toward
 
+- Learning ReactJS fundamentals and building reusable UI components
+- Creating interactive, responsive frontend projects
 - Building backend applications and REST APIs
 - Designing database-driven business systems
 - Learning authentication, authorization, and secure architecture
@@ -151,7 +154,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter" alt="closing message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+and+learning+new+technologies" alt="Thanks for visiting" />
 </p>
 
 <p align="center">If you want more neon animations, project cards, or a custom portfolio section, I can keep enhancing this profile.</p>
