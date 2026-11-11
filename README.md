@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student;Learning+ReactJS+and+Full-Stack+Development" alt="Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student+%7C+Aspiring+Software+Engineer;Final-Year+CS+Student+%7C+Learning+by+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,19 +31,19 @@
 
 # Hi, I'm Debela Girma 👋
 
-**Computer Science Student | Aspiring Software Engineer | Ethiopia**
+**Final-Year Computer Science Student | Aspiring Software Engineer | Ethiopia**
 
-I'm a Computer Science student at Hawassa University Institute of Technology, focused on building practical software solutions that solve real-world problems.
+I'm a final-year Computer Science student at Hawassa University Institute of Technology, passionate about building practical software solutions and continuously improving my engineering skills. My focus includes backend development, APIs, database-driven systems, and user-centered product development.
 
-My work so far includes fundamentals in Java and MySQL, hands-on web development, database-driven applications, version control with Git/GitHub, and AI-assisted software development. I'm currently learning ReactJS and growing my skills in frontend and full-stack development, alongside backend engineering and secure application design.
+I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, and modern development workflows. I’m currently expanding my skills in ReactJS, Django, FastAPI, PostgreSQL, and full-stack application development while working on projects that solve real-world problems.
 
 <details>
 <summary><b>📌 Quick Snapshot</b></summary>
 
-- 🎓 Studying: Computer Science at Hawassa University Institute of Technology
-- 💡 Focus: Backend development, APIs, system design, and secure apps
+- 🎓 Studying: Final-year Computer Science at Hawassa University Institute of Technology
+- 💡 Focus: Backend development, APIs, system design, and secure applications
 - 🧠 Currently learning: ReactJS, Django, FastAPI, PostgreSQL, and modern engineering workflows
-- ⚛️ Exploring: React components, props, state, and building interactive user interfaces
+- ⚛️ Exploring: React components, props, state, and interactive user interfaces
 - 🤝 Looking for: Internships, collaborations, and software engineering opportunities
 
 </details>
@@ -93,7 +93,7 @@ My work so far includes fundamentals in Java and MySQL, hands-on web development
 
 ## 🎯 My Goal
 
-To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology ecosystem in Ethiopia and beyond.
+To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology industry.
 
 ---
 
@@ -112,7 +112,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ## Featured Projects
 
 | Project | Description | Tech |
-|---|---|---|
+| |---|---|
 | [Student Management System](https://github.com/debela-girma/student-management-system) | Manage academic records & operations | Java, SQL |
 | [My Portfolio](https://github.com/debela-girma/my-portfolio-) | Personal site showcasing work & skills | TypeScript, React |
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | Systems programming examples | C++ |
@@ -154,7 +154,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+and+learning+new+technologies" alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter;Let's+create+something+great+together!" alt="footer typing" />
 </p>
 
 <p align="center">If you want more neon animations, project cards, or a custom portfolio section, I can keep enhancing this profile.</p>
