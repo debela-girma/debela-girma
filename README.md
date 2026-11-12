@@ -129,26 +129,8 @@ I'm interested in collaborating on software projects, learning from other develo
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debela-girma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debela-girma&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=debela-girma&label=Profile+views&color=00FFFF&style=flat-square" alt="Profile views" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://graph.fasu.dev/graph?user=debela-girma&theme=react-dark&bg_color=0d1117&title_color=00FFFF&color=7C3AED&line=00FFFF&point=FFB000&hide_border=true" alt="Debela Girma contribution graph" />
 </p>
 
 ---
