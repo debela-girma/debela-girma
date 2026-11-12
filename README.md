@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student+%7C+Aspiring+Software+Engineer;Final-Year+CS+Student+%7C+Learning+by+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%93%9A;Software+Engineer+in+the+Making+%F0%9F%92%BB;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 **Final-Year Computer Science Student | Aspiring Software Engineer | Ethiopia**
 
-I'm a final-year Computer Science student at Hawassa University Institute of Technology, passionate about building practical software solutions and continuously improving my engineering skills. My focus includes backend development, APIs, database-driven systems, and user-centered product development.
+I'm a final-year Computer Science student at Hawassa University Institute of Technology, passionate about building practical software solutions and continuously improving my engineering skills. My main interests lie in backend development, secure systems, and building digital tools that make life easier for people and organizations.
 
-I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, and modern development workflows. I’m currently expanding my skills in ReactJS, Django, FastAPI, PostgreSQL, and full-stack application development while working on projects that solve real-world problems.
+I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, and modern development workflows. I’m currently expanding my skills in ReactJS, Django, FastAPI, PostgreSQL, and full-stack engineering, with a growing interest in building clean, scalable, and user-friendly applications.
 
 <details>
 <summary><b>📌 Quick Snapshot</b></summary>
@@ -93,7 +93,7 @@ I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, an
 
 ## 🎯 My Goal
 
-To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology industry.
+To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology ecosystem.
 
 ---
 
@@ -112,7 +112,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ## Featured Projects
 
 | Project | Description | Tech |
-| |---|---|
+| | |---|
 | [Student Management System](https://github.com/debela-girma/student-management-system) | Manage academic records & operations | Java, SQL |
 | [My Portfolio](https://github.com/debela-girma/my-portfolio-) | Personal site showcasing work & skills | TypeScript, React |
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | Systems programming examples | C++ |
@@ -145,6 +145,14 @@ I'm interested in collaborating on software projects, learning from other develo
 
 ---
 
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debela-girma&theme=react-dark&bg_color=0d1117&title_color=00FFFF&color=7C3AED&line=00FFFF&point=FFB000&hide_border=true" alt="Debela Girma contribution graph" />
+</p>
+
+---
+
 ## Contact
 
 <p align="center">
@@ -154,7 +162,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter;Let's+create+something+great+together!" alt="footer typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter+%F0%9F%92%A1;Let's+build+something+great+together+%F0%9F%9A%80" alt="Closing message" />
 </p>
 
 <p align="center">If you want more neon animations, project cards, or a custom portfolio section, I can keep enhancing this profile.</p>
