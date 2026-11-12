@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%93%9A;Software+Engineer+in+the+Making+%F0%9F%92%BB;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%93%9A;Software+Engineer+in+the+Making+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%8D" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ## Featured Projects
 
 | Project | Description | Tech |
-| | |---|
+| | | |---|
 | [Student Management System](https://github.com/debela-girma/student-management-system) | Manage academic records & operations | Java, SQL |
 | [My Portfolio](https://github.com/debela-girma/my-portfolio-) | Personal site showcasing work & skills | TypeScript, React |
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | Systems programming examples | C++ |
@@ -148,7 +148,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debela-girma&theme=react-dark&bg_color=0d1117&title_color=00FFFF&color=7C3AED&line=00FFFF&point=FFB000&hide_border=true" alt="Debela Girma contribution graph" />
+  <img src="https://graph.fasu.dev/graph?user=debela-girma&theme=react-dark&bg_color=0d1117&title_color=00FFFF&color=7C3AED&line=00FFFF&point=FFB000&hide_border=true" alt="Debela Girma contribution graph" />
 </p>
 
 ---
