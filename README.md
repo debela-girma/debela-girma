@@ -140,37 +140,6 @@ I'm interested in collaborating on software projects, learning from other develo
 </p>
 
 <p align="center">
-  <svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Code review activity chart">
-    <defs>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="2.5" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <rect width="560" height="260" fill="#050d15"/>
-
-    <text x="280" y="28" text-anchor="middle" fill="#7ce8a8" font-size="16" font-family="Arial, sans-serif" font-weight="600">Code review</text>
-
-    <line x1="280" y1="44" x2="280" y2="208" stroke="#5ce2a4" stroke-width="2.5" opacity="0.9" filter="url(#glow)"/>
-    <line x1="90" y1="126" x2="470" y2="126" stroke="#5ce2a4" stroke-width="2.5" opacity="0.9" filter="url(#glow)"/>
-
-    <circle cx="280" cy="126" r="7" fill="#5ce2a4" stroke="#0a1720" stroke-width="2"/>
-
-    <text x="120" y="118" fill="#c9d2db" font-size="20" font-family="Arial, sans-serif">87%</text>
-    <text x="168" y="118" fill="#dfe6ee" font-size="20" font-family="Arial, sans-serif">Commits</text>
-
-    <text x="394" y="118" fill="#dfe6ee" font-size="20" font-family="Arial, sans-serif">Issues</text>
-
-    <text x="250" y="170" fill="#c9d2db" font-size="20" font-family="Arial, sans-serif">13%</text>
-    <text x="255" y="212" fill="#dfe6ee" font-size="20" font-family="Arial, sans-serif" text-anchor="middle">Pull requests</text>
-  </svg>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=debela-girma&label=Profile+views&color=00FFFF&style=flat-square" alt="Profile views" />
 </p>
 
