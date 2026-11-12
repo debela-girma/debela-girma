@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%93%9A;Software+Engineer+in+the+Making+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%8D" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student;Aspiring+Software+Engineer;Welcome+to+my+GitHub+profile!" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 **Final-Year Computer Science Student | Aspiring Software Engineer | Ethiopia**
 
-I'm a final-year Computer Science student at Hawassa University Institute of Technology, passionate about building practical software solutions and continuously improving my engineering skills. My main interests lie in backend development, secure systems, and building digital tools that make life easier for people and organizations.
+I'm a final-year Computer Science student at Hawassa University Institute of Technology, passionate about building practical software solutions and continuously improving my engineering skills. My interest lies in software development, problem solving, and creating impactful tools that help people and businesses solve real problems.
 
-I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, and modern development workflows. I’m currently expanding my skills in ReactJS, Django, FastAPI, PostgreSQL, and full-stack engineering, with a growing interest in building clean, scalable, and user-friendly applications.
+I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, and modern development workflows. I’m currently expanding my skills in ReactJS, Django, FastAPI, PostgreSQL, and full-stack application development.
 
 <details>
 <summary><b>📌 Quick Snapshot</b></summary>
@@ -93,7 +93,7 @@ I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, an
 
 ## 🎯 My Goal
 
-To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology ecosystem.
+To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology space.
 
 ---
 
@@ -112,7 +112,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ## Featured Projects
 
 | Project | Description | Tech |
-| | | |---|
+| | | | |---|
 | [Student Management System](https://github.com/debela-girma/student-management-system) | Manage academic records & operations | Java, SQL |
 | [My Portfolio](https://github.com/debela-girma/my-portfolio-) | Personal site showcasing work & skills | TypeScript, React |
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | Systems programming examples | C++ |
@@ -140,6 +140,37 @@ I'm interested in collaborating on software projects, learning from other develo
 </p>
 
 <p align="center">
+  <svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Code review activity chart">
+    <defs>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="2.5" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <rect width="560" height="260" fill="#050d15"/>
+
+    <text x="280" y="28" text-anchor="middle" fill="#7ce8a8" font-size="16" font-family="Arial, sans-serif" font-weight="600">Code review</text>
+
+    <line x1="280" y1="44" x2="280" y2="208" stroke="#5ce2a4" stroke-width="2.5" opacity="0.9" filter="url(#glow)"/>
+    <line x1="90" y1="126" x2="470" y2="126" stroke="#5ce2a4" stroke-width="2.5" opacity="0.9" filter="url(#glow)"/>
+
+    <circle cx="280" cy="126" r="7" fill="#5ce2a4" stroke="#0a1720" stroke-width="2"/>
+
+    <text x="120" y="118" fill="#c9d2db" font-size="20" font-family="Arial, sans-serif">87%</text>
+    <text x="168" y="118" fill="#dfe6ee" font-size="20" font-family="Arial, sans-serif">Commits</text>
+
+    <text x="394" y="118" fill="#dfe6ee" font-size="20" font-family="Arial, sans-serif">Issues</text>
+
+    <text x="250" y="170" fill="#c9d2db" font-size="20" font-family="Arial, sans-serif">13%</text>
+    <text x="255" y="212" fill="#dfe6ee" font-size="20" font-family="Arial, sans-serif" text-anchor="middle">Pull requests</text>
+  </svg>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=debela-girma&label=Profile+views&color=00FFFF&style=flat-square" alt="Profile views" />
 </p>
 
@@ -162,7 +193,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter+%F0%9F%92%A1;Let's+build+something+great+together+%F0%9F%9A%80" alt="Closing message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter;Let%27s+build+something+amazing+together!" alt="Closing message" />
 </p>
 
 <p align="center">If you want more neon animations, project cards, or a custom portfolio section, I can keep enhancing this profile.</p>
