@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student;Aspiring+Software+Engineer;Welcome+to+my+GitHub+profile!" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi!+I'm+Debela+Girma+%F0%9F%9A%80;Computer+Science+Student+%7C+Aspiring+Software+Engineer;Building+practical+solutions+and+learning+every+day" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 **Final-Year Computer Science Student | Aspiring Software Engineer | Ethiopia**
 
-I'm a final-year Computer Science student at Hawassa University Institute of Technology, passionate about building practical software solutions and continuously improving my engineering skills. My interest lies in software development, problem solving, and creating impactful tools that help people and businesses solve real problems.
+I'm a final-year Computer Science student at Hawassa University Institute of Technology, passionate about building practical software solutions and continuously improving my engineering skills. My focus is on backend systems, database design, APIs, and reliable software engineering practices.
 
 I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, and modern development workflows. I’m currently expanding my skills in ReactJS, Django, FastAPI, PostgreSQL, and full-stack application development.
 
@@ -47,6 +47,22 @@ I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, an
 - 🤝 Looking for: Internships, collaborations, and software engineering opportunities
 
 </details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debela-girma&show_icons=true&theme=dark" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debela-girma&theme=dark" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debela-girma&layout=compact&theme=dark" alt="Top languages" />
+</p>
 
 ---
 
@@ -93,7 +109,7 @@ I’ve built a strong foundation in Java, MySQL, web development, Git/GitHub, an
 
 ## 🎯 My Goal
 
-To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology space.
+To become a capable software engineer through continuous learning, hands-on project work, and real-world experience while contributing meaningful digital solutions and growing within the technology ecosystem.
 
 ---
 
@@ -112,7 +128,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ## Featured Projects
 
 | Project | Description | Tech |
-| | | | |---|
+| --- | --- | --- |
 | [Student Management System](https://github.com/debela-girma/student-management-system) | Manage academic records & operations | Java, SQL |
 | [My Portfolio](https://github.com/debela-girma/my-portfolio-) | Personal site showcasing work & skills | TypeScript, React |
 | [CPP Project 1](https://github.com/debela-girma/CPPproject1) | Systems programming examples | C++ |
@@ -144,7 +160,7 @@ I'm interested in collaborating on software projects, learning from other develo
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter;Let%27s+build+something+amazing+together!" alt="Closing message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%99%8F;I+love+building+things+that+matter;Let%27s+create+something+great+together" alt="Closing message" />
 </p>
 
 <p align="center">If you want more neon animations, project cards, or a custom portfolio section, I can keep enhancing this profile.</p>
